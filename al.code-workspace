@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "appALTest"
+                    },
+                    {
+                        "path":  "YourAppName.Test"
                     }
                 ],
     "settings":  {
